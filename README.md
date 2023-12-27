@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as QA Engeneer @ Instituto Atlântico
+- 🔭 I’m currently working as QA Engineer @ Instituto Atlântico
 - 🌱 I’m always studying test automation to improve my knowledge of this subject
 - ⚡ I'm passionate about technology and I love learning
 - 😄 Pronouns: She/Her | Ela/Dela
