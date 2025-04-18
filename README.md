@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔍 I'm currently working as a QA Engineer at Instituto Atlântico, focusing on delivering high-quality software through thoughtful testing.
+- 🔍 I'm currently working as a QA Engineer, focusing on delivering high-quality software through thoughtful testing.
 - 🤖 I'm always exploring new tools and best practices in test automation to sharpen my skills and stay ahead in the QA field.
 - 💡 Passionate about technology, continuous learning, and solving problems that make a real impact.
 - 🌈 Pronouns: She/Her | Ela/Dela
